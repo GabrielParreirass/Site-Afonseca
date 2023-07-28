@@ -17,8 +17,8 @@ const Footer = () => {
                 <p className='text-lg '>Belo Horizonte, MG 30.320-050</p>
             </div>
         </div>
-        <div className='w-full flex items-center justify-center bg-azulMarca'>
-            <Image src={"/logo-grande-branca.png"} width={300} height={300} alt='logo'></Image>
+        <div className='w-full flex items-center justify-center pb-4 bg-azulMarca'>
+            <Image src={"/logo-mini-branca.png"} width={100} height={100} alt='logo'></Image>
         </div>
     </div>
   )

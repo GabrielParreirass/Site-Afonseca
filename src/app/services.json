@@ -1,0 +1,17 @@
+{
+    "services": [
+        {"name":"Nova outorga (outorga inicial)."},
+        {"name":"Licenciamento de estações"},
+        {"name":"Renovação de Licenças de Funcionamento."},
+        {"name":"Regularização de rede existente / atualização de projeto."},
+        {"name":"Cadastro de equipamentos de radiação restrita."},
+        {"name":"Estudo de interferências."},
+        {"name":"Cancelamento de outorga."},
+        {"name":"Transferência de outorga."},
+        {"name":"Levantamento de débitos (taxas Fistel)."},
+        {"name":"Consultoria para aquisição ou locação de equipamentos."},
+        {"name":"Uso temporário do espectro"},
+        {"name":"Defesas e recursos administrativos"}
+
+    ]
+}
