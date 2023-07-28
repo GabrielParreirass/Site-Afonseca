@@ -80,7 +80,7 @@ export default function Home() {
             <div className="flex items-center justify-center gap-12 p-6 w-1/2 m-auto ">
               <div>
                 <Image
-                  src={"/anatel-logo-13.png"}
+                  src={"/anatel-logo-11.png"}
                   height={500}
                   width={500}
                   alt="logo anatel"
